@@ -1,4 +1,3 @@
-# CSC208
 Jeff Elkners CSC208 computer programming class /n
 Class topic: Discrete math
 Year: 2024
