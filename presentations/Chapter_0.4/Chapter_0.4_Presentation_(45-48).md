@@ -16,7 +16,7 @@ Some may think that injections and surjections are opposites, but be careful: â€
 ![Bijection](https://ds055uzetaobb.cloudfront.net/brioche/uploads/EkswlzPrzb-examp.svg?width=300)
 ### Exercises and Solutions:
 ![Question #2](Question2.png)
-![Question #3](image-1.png)
-![Exercise #7](https://media.cheggcdn.com/media/2dc/2dc00d11-64d0-451b-ad6f-245f947d8423/phpubA6KX)
+![Question #3](Question3.png)
+![Question #7](Question7.png)
 
 Next part of the presentation is by [Fikir](https://github.com/StrwHatF1k1r/csc208/blob/main/Chapter_0.4_Presentation_(48-49).md).
