@@ -15,7 +15,7 @@ Some may think that injections and surjections are opposites, but be careful: â€
 #### Example:
 ![Bijection](https://ds055uzetaobb.cloudfront.net/brioche/uploads/EkswlzPrzb-examp.svg?width=300)
 ### Exercises and Solutions:
-![Question #2](![image.png](Question2.png))
+![Question #2](Question2.png)
 ![Question #3](image-1.png)
 ![Exercise #7](https://media.cheggcdn.com/media/2dc/2dc00d11-64d0-451b-ad6f-245f947d8423/phpubA6KX)
 
