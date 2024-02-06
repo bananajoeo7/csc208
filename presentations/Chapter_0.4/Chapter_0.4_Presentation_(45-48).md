@@ -14,6 +14,7 @@ In mathematics, a injective function, also known as a injection, is a function o
 Some may think that injections and surjections are opposites, but be careful: “surjective” and “injective” are NOT opposites.In mathematics, a bijective function, also known as a bijection, is a function of f such that, it complies with both the criteria of a surjection and a injection.
 #### Example:
 ![Bijection](https://ds055uzetaobb.cloudfront.net/brioche/uploads/EkswlzPrzb-examp.svg?width=300)
+Credit to Brilliant.org
 ### Exercises and Solutions:
 <details>
 <summary><b>Exersises</b></summary>
