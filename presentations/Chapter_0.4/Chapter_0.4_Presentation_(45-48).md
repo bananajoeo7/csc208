@@ -38,6 +38,7 @@ Credit to Brilliant.org
 <details>
 <summary><b>Links</b></summary>
 
+- [Textbook](https://discrete.openmathbooks.org/dmoi3.html)
 - [Wiki_Surjections](https://en.wikipedia.org/wiki/Surjective_function#:~:text=In%20mathematics%2C%20a%20surjective%20function,f(x)%20%3D%20y.)
 - [Wiki_Injections](https://en.wikipedia.org/wiki/Injective_function#:~:text=In%20mathematics%2C%20an%20injective%20function,in%20the%20equivalent%20contrapositive%20statement.)
 - [Wiki_Bijection](https://en.wikipedia.org/wiki/Bijection)
