@@ -11,15 +11,24 @@
 - The new presentations should have clear and coherent solutions to the problems using information from and outside of the textbook.
 - The might not be able to provide a proper math class structure, but should be able to fill in the gaps of a students presentation if another student is confused during the presentation.
 ### New Class Structure
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax       | Description                             |
+| ------------ | --------------------- ----------------  |
+| Class Type 1 | Read 1-2 sub chapters.                  |
+| Homework 1   | Each studendt is assigned 1-3 Exercises without solutions (can have hints) to create a presentation on. |
+| Class Type 2 | Student present their questions to the class and will discuss the answers. |
+| Repeat...    | Until entire chapter or sufficient content is complete. |
+| Class Type 3 | Quiz if necessary on covered material. |
+#### Notes:
+##### Students will be graded on the following:
+- Regular Git Repo commits for their presentations.
+- The presentations in class to fellow students.
+- Engagement during class discussions about the exercises.
+- Quizzes if neccesary.
 ### Assignment
 #### Requirements
 - Presentation should be created in markdown.
 - Presentation should provide an original response to the question.
-- Presentation should use information inside the [textbook](https://discrete.openmathbooks.org/dmoi3.html)
+- Presentation should use information inside the [textbook](https://discrete.openmathbooks.org/dmoi3.html).
 #### Example of Assignment:
 
 #### Created By:
