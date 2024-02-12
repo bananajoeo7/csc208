@@ -18,8 +18,8 @@
 | Class Type 2 | Students present their questions to the class and will discuss the answers. |
 | Repeat...    | Until the entire chapter or sufficient content is completed.   |
 | Class Type 3 | Quiz if necessary on covered material.                          |
-
-
+#### Question Assigner:
+Use this [Question Assigner](https://github.com/bananajoeo7/csc208/blob/main/Proposed_Class_Changes/Question_Assigner.py) that was written in Python to assign questions.
 #### Notes:
 ##### Students will be graded on the following:
 - Regular Git Repo commits for their presentations.
@@ -30,8 +30,8 @@
 #### Requirements
 - Presentation should be created in markdown.
 - Presentation should provide an original response to the question.
-- Presentation should use information inside the [textbook](https://discrete.openmathbooks.org/dmoi3.html).
+- Presentation should use information inside the [textbook](https://discrete.openmathbooks.org/dmoi3.html) and at least 2 sources outside the textbook to help inform you fellow students or support you answer.
 #### Example of Assignment:
-
+This is a [template](https://github.com/bananajoeo7/csc208/blob/main/Proposed_Class_Changes/Assignment_Template.md) for the assignments.
 #### Created By:
 Trostin Geles
