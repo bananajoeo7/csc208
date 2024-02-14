@@ -9,7 +9,7 @@
 - We should slow down the amount of content given at once. Depending on length of subchapters, 1-3 (usually 2) subchapters will be covered at at time.
 - The main focus of the student conversations and presentations should be on the exercises and how to solve them in a way the students will comprehend.
 - The new presentations should have clear and coherent solutions to the problems using information from and outside of the textbook.
-- The might not be able to provide a proper math class structure, but should be able to fill in the gaps of a students presentation if another student is confused during the presentation.
+- The instructor might not be able to provide a proper math class structure, but should be able to fill in the gaps of a student's presentation if another student is confused during the presentation.
 ### New Class Structure
 | Syntax       | Description                                                     |
 | ------------ | ---------------------------------------------------------------   |
