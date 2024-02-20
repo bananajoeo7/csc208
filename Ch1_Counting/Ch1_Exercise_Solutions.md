@@ -30,7 +30,7 @@ $$0 + 13 = 13$$
 $$28+19+24−16−14−10+8  39$$
 8. The answer is 6 because you subtract those who like potaties from the total surveyies and add those who liked two types of potatoes back to the total surveyies and subtract those who liked all three to not count a subject twice (use a ven diagram if help is needed).
 $$30 - 15 - 20 - 9 + 12 + 5 + 6 - 3 = 6$$
-9. Answer is 215, I don't want to explain the math so here is an image of desmos (look at 1.9's hint foe help).
+9. Answer is 215, I don't want to explain the math so here is an image of desmos (look at 1.9's hint for help).
 ![Math_1](image-1.png)
 10. Waiting for presentation.
 11. (a) ?
