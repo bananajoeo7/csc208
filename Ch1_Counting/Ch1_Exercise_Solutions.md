@@ -1,7 +1,7 @@
 # Chapter 1.1 Exercises:
 1. To get the answer you use the multaplicative principle and multiply 5, 3, and 17.
 
-$ 5 * 3 * 17 = 255 $
+$5 * 3 * 17 = 255$
 
 2. (a) You use additive principle to get 8 by adding 3 and 5.
 
