@@ -45,3 +45,6 @@ Pascals Triangle allows us to calculate binomials using recurrence rlation.
 
 #### Pascals Triangle:
 ![Pascals_Triangle](image-6.png)
+
+### How to solve binomial coefficients:
+$$(^n_k) = (n!)/(k!(n-k)!)$$
