@@ -6,3 +6,5 @@
 
 ## Solutions:
 [Chapter 1.1 Solutions](https://github.com/bananajoeo7/csc208/blob/main/Ch1_Counting/Ch1.1_Solutions.md)
+
+[Chapter 1.2 Solutions](https://github.com/bananajoeo7/csc208/blob/main/Ch1_Counting/Ch1.2_Solutions.md)
