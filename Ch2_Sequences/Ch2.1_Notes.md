@@ -11,7 +11,7 @@ There are two ways:
 
 1# Closed formula:
 
-A closed formula for a sequence $(a_n)_(n∈N)$ is a formula for an using a
+A closed formula for a sequence $(a_n)_n_∈_N$ is a formula for an using a
 fixed finite number of operations on n. This is what you normally
 think of as a formula in n, just as if you were defining a function in
 terms of n (because that is exactly what you are doing).
@@ -19,7 +19,7 @@ terms of n (because that is exactly what you are doing).
 2# Recursive defnition:
 
 A recursive definition (sometimes called an inductive definition)
-for a sequence $(a_n)_(n∈N)$ consists of a recurrence relation : an equation
+for a sequence $(a_n)_n_∈_N$ consists of a recurrence relation : an equation
 relating a term of the sequence to previous terms (terms with smaller
 index) and an initial condition: a list of a few terms of the sequence
 (one less than the number of terms in the recurrence relation).
