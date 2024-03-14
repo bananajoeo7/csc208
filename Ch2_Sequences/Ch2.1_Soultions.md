@@ -14,15 +14,15 @@ note: make sure you are looking at the common sequences sheet
 $a_n = (a_{n - 2}) + (n_{n - 1})$.
 
 9. You would solve this by doing the following:\
-$7a_{n - 1} - 10a_{n - 2} = 7(3x2^{n - 1} + 7x5^{n - 1}) - 10 (3x2^{n - 2} + 7x5^{n - 2})$
+$7a_{n - 1} - 10a_{n - 2} = 7((3)\times(2^{n - 1}) + (7)\times(5^{n - 1})) - 10 ((3)\times2^{n - 2} + (7)\times(5^{n - 2}))$
 
-$= 21x2^{n - 1} + 49x5^{n - 1} - (30x2^{n - 1} + 70x5^{n - 2})$
+$= (21)\times(2^{n - 1}) + (49)\times(5^{n - 1}) - (30)\times(2^{n - 1}) + (70)\times(5^{n - 2})$
 
-$= 21x2^{n - 1} + 49x5^{n - 1} - (15x2^{n - 1} + 14x5^{n - 1})$
+$= (21)\times(2^{n - 1}) + (49)\times(5^{n - 1}) - (15)\times(2^{n - 1}) + (14)\times(5^{n - 1})$
 
-$= 6x2^{n - 1} + 35x5^{n - 1}$
+$= (6)\times(2^{n - 1}) + (35)\times(5^{n - 1})$
 
-$= 3x2^n + 7x5^n$
+$= (3)\times(2^n) + (7)\times(5^n)$
 
 13. (a) $\sum_{k=1}^{n} 2k$
 
@@ -40,6 +40,6 @@ $= 3x2^n + 7x5^n$
 
 14. (c) $\sum_{k=2}^{50} 1/(k^2 - 1) = 1 + 1/3 + 1/8 + 1/15 + ... + 1/2499$
 
-14. (d) $\prod_{k=1}^{n} k^2/(k^2 - 1) = 4/3x9/8x16/15x...x10000/9999$
+14. (d) $\prod_{k=1}^{n} k^2/(k^2 - 1) = (4/3)\times(9/8)\times(16/15)\times...\times(10000/9999)$
 
-14. (e) $\prod_{k=1}^{n} (2 + 3k)$ $= 2x5x8x11x14x...x(2+3n)$
+14. (e) $\prod_{k=1}^{n} (2 + 3k)$ $= (2)\times(5)\times(8)\times(11)\times(14)\times...\times(2+3n)$
