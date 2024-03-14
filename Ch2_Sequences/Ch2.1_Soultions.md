@@ -14,7 +14,7 @@ note: make sure you are looking at the common sequences sheet
 $a_n = (a_{n - 2}) + (n_{n - 1})$.
 
 9. You would solve this by doing the following:\
-$7a_n_-_1 - 10a_n_-_2 = 7(3x2^{n - 1} + 7x5^{n - 1}) - 10 (3x2^{n - 2} + 7x5^{n - 2})$
+$7a_{n - 1} - 10a_{n - 2} = 7(3x2^{n - 1} + 7x5^{n - 1}) - 10 (3x2^{n - 2} + 7x5^{n - 2})$
 
 $= 21x2^{n - 1} + 49x5^{n - 1} - (30x2^{n - 1} + 70x5^{n - 2})$
 
