@@ -9,15 +9,18 @@ note: make sure you are looking at the common sequences sheet
 3. (a) 0, 1, 3, 6, 10
 3. (b) 2, 3, 4, 5, 6 or $a_n = n$
 3. (c) 0, 1, 2, 6, 24
-6. They all add have the same equation just diffferent starting values for $a_0$ and $a_1$, the equation is $a_n = (a_a_-_2) + (n_a_-_1)$.
+6. They all add have the same equation just diffferent starting values for $a_0$ and $a_1$, the equation is 
+
+$a_n = (a_{n - 2}) + (n_{n - 1})$.
+
 9. You would solve this by doing the following:\
-$7a_n_-_1 - 10a_n_-_2 = 7(3x2^n^-^1 + 7x5^n^-^1) - 10 (3x2^n^-^2 + 7x5^n^-^2)$
+$7a_n_-_1 - 10a_n_-_2 = 7(3x2^{n - 1} + 7x5^{n - 1}) - 10 (3x2^{n - 2} + 7x5^{n - 2})$
 
-$= 21x2^n^-^1 + 49x5^n^-^1 - (30x2^n^-^2 + 70x5^n^-^2)$
+$= 21x2^{n - 1} + 49x5^{n - 1} - (30x2^{n - 1} + 70x5^{n - 2})$
 
-$= 21x2^n^-^1 + 49x5^n^-^1 - (15x2^n^-^1 + 14x5^n^-^1)$
+$= 21x2^{n - 1} + 49x5^{n - 1} - (15x2^{n - 1} + 14x5^{n - 1})$
 
-$= 6x2^n^-^1 + 35x5^n^-^1$
+$= 6x2^{n - 1} + 35x5^{n - 1}$
 
 $= 3x2^n + 7x5^n$
 
