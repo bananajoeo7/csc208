@@ -13,3 +13,16 @@ $a_n = 2^n + 1$ is a solution to the recurrence relation $a_n = 2a_{n - 1} - 1$ 
 We get the following proof by plugging it in:
 
 ![alt text](image-3.png)
+
+This technique can be applied to different types of sequences that share a pattern.
+
+### The Characteristic Root Technique:
+This technique allows for us to make a recurrence relation into a polynomial as long as it presents itself as a combination of the two previous terms.
+
+The following is a breakdown of the technique:
+
+![alt text](image-4.png)
+
+For recurrence relation that contain only one root that may bounce such as $(x-r)^2$ you can use the following technique:
+
+![alt text](image-5.png)
