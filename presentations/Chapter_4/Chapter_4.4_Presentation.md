@@ -7,7 +7,7 @@ which are pairwise adjacent which is practically a size n is just a copy of the 
 graph can be made which is the largest n for which the graph contains a clique of size n. The goal when coloring is often to find the
 <b>chromatic number</b>, which is the smallest amount of numbers to complete the coloring task, or the smallest clique number possible.
 
-To talk about Brook's Theorem, a theory devised from this we go to (Johan's Presentation)[Insert Johan Link Here].
+To talk about Brook's Theorem, a theory devised from this we go to [Johan's Presentation](https://github.com/johan-franco/csc208/blob/main/ch4_GraphTheory/sect4.4.md).
 
 ## Coloring Edges:
 <b>Vizing's Theorem</b>: Vizing's Theorem is a key result in graph theory concerning the edge coloring of simple graphs. It states that for
@@ -21,6 +21,13 @@ coloring edges of $K_n$ (complete graphs) either red or blue, some graphs like $
 like $K_5$ cannot. The theory extends to using more colors and larger subgraphs, though much remains unknown. For example, it’s known that
 $K_{17}$ is the smallest graph forcing a monochromatic triangle with three colors, and $K_{18}$ is the smallest for forcing a monochromatic
 $K_4$ with two colors. However, the exact size required to force a monochromatic $K_5$ remains uncertain, estimated to be between $K_{43}$
-and $K_{49}$. This area of graph theory is rich with open questions and is known as Ramsey Theory.
+and $K_{49}$. This area of graph theory is rich with open questions and is known as Ramsey's Theory.
 
-Now we continue on to (Johan's Presentation)[Insert Johan Link Here] once again.
+![image](https://github.com/bananajoeo7/csc208/assets/112637228/99abb30a-d772-4799-bf53-770e32e4b4f4)
+
+
+Now we continue on to [Luis's Presentation](https://github.com/ledmer/CSC208/blob/main/4.Graph_Theory/4.Coloring/exercises.md) once again.
+
+#### sources:
+[Wiki Graph Coloring](https://en.wikipedia.org/wiki/Graph_coloring) \
+[Wiki Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory)
