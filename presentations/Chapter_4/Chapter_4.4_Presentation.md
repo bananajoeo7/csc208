@@ -7,6 +7,9 @@ which are pairwise adjacent which is practically a size n is just a copy of the 
 graph can be made which is the largest n for which the graph contains a clique of size n. The goal when coloring is often to find the
 <b>chromatic number</b>, which is the smallest amount of numbers to complete the coloring task, or the smallest clique number possible.
 
+![image](https://github.com/bananajoeo7/csc208/assets/112637228/79463752-7aa3-45a6-a405-30fe8dd47718)
+
+
 To talk about Brook's Theorem, a theory devised from this we go to [Johan's Presentation](https://github.com/johan-franco/csc208/blob/main/ch4_GraphTheory/sect4.4.md).
 
 ## Coloring Edges:
