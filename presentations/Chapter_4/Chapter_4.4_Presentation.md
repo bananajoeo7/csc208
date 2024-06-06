@@ -29,7 +29,7 @@ and $K_{49}$. This area of graph theory is rich with open questions and is known
 ![image](https://github.com/bananajoeo7/csc208/assets/112637228/99abb30a-d772-4799-bf53-770e32e4b4f4)
 
 
-Now we continue on to [Luis's Presentation](https://github.com/ledmer/CSC208/blob/main/4.Graph_Theory/4.Coloring/exercises.md) once again.
+Now we continue on to [Luis's Presentation](https://github.com/ledmer/CSC208/blob/main/4.Graph_Theory/4.Coloring/exercises.md).
 
 #### sources:
 [Wiki Graph Coloring](https://en.wikipedia.org/wiki/Graph_coloring) \
